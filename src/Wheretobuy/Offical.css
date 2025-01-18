@@ -1,0 +1,107 @@
+.dji-store-app {
+    background-image: url('https://www1.djicdn.com/dps/ef867ce01947103ae8294274c120c7c1.jpg'); /* Replace with your background image URL */
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    text-align: left; /* Align text to the left */
+    height: 450px;
+  }
+  
+  .dji-store-app h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  .dji-store-app ul {
+    list-style: disc;
+    margin-left: 30px;
+    margin-bottom: 20px;
+  }
+  
+  .dji-store-app ul li {
+    margin-bottom: 10px;
+  }
+  
+  .dji-store-app .buttons {
+    margin-top: 20px;
+  }
+  
+  .dji-store-app .buttons a {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 10px 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .dji-store-app .buttons a:hover {
+    background-color: #eee;
+  }
+  
+  .dji-store-app .image {
+    position: absolute; /* Positioning for the image */
+    left: 0; /* Align to the left */
+    top: 50%; /* Center vertically */
+    transform: translateY(-50%); /* Adjust for centering */
+  }
+  
+  .dji-store-app .image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .dji-store-app .image .phone {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    height: 500px;
+  }
+  
+  .dji-store-app .image .phone img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .dji-store-app .image .drone {
+    position: absolute;
+    top: 0;
+   left: 0;
+    width: 100%;
+    height: auto;
+    z-index: 1;
+  }
+  
+  .dji-store-app .image .drone img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+
+  /* retail css */
+  select {
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #fff;
+    cursor: pointer;
+  }
+  
+  select:disabled {
+    background: #f0f0f0;
+    cursor: not-allowed;
+  }
+  
+  strong {
+    font-weight: bold;
+    font-size: 14px;
+  }
+  

@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.banner-container {
+    text-align: center;
+    padding: 50px 60px;
+    line-height: 1.5;
+  }
+  
+  .banner-heading {
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .banner-subtext {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.8;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vh;
+    background-color: #f0f0f0; /* Fallback color */
+    background-image: url('https://www-cdn.djiits.com/dps/c23c56a2dea2de67314d1a7505caf066.jpg'); 
+    background-size:cover; 
+    background-position: center;
+    margin: 0%;
+
+  }
+  
+  .content {
+    text-align: center;
+    margin-top: 40px;
+    /* margin-right: 200px; Adjust spacing as needed */
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Adjust spacing as needed */
+  }
+  
+  button {
+    background-color: #007bff; /* Blue background */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }

@@ -1,0 +1,341 @@
+{  
+    "carouselData": [
+    {
+      "id": 1,
+      "image": "https://dji-official-fe.djicdn.com/cms/uploads/a9b0636a0208b6467b18abcf6f8bb06d.jpg",
+      "text1": "Triple-Lens Camera Drone",
+      "text2": "DJI MAVIC 3 pro",
+      "text3": "Inspiration in Focus",
+      "link1": "/",
+      "link2": "/dynamic/combinator/669e5b0f983a686e94f6b619"
+    },
+    {
+      "id": 2,
+      "image": "https://dji-official-fe.djicdn.com/cms/uploads/d4e8e295ca6f4e4146b744943ea6a9fd.jpg",
+      "text1": "1 CMOS Pocket Gimbal Camera",
+      "text2": "OSMO POCKET 3",
+      "text3": "For Moving Moments",
+      "link1": "/",
+      "link2": "/dynamic/combinator/669e6eec23114847a2f1c597"
+    },
+    {
+      "id": 3,
+      "image":"https://dji-official-fe.djicdn.com/cms/uploads/e64d421632de007395222eb0cce98fe7.jpg",
+      "text1": "Get 1% of your order back in DJI Credit",
+      "text2": "DJI INSPIRE 3",
+      "text3": "Master the Unseen",
+      "link1": "/",
+      "link2": "/dynamic/combinator/INSPIRE3"
+    },
+    {
+      "id":4,
+      "image":
+        "https://dji-official-fe.djicdn.com/cms/uploads/81b484ebfa1d073281c2e2ee6eca7cd1.jpg",
+      "text1": "Enterprise Small Commercial Drones",
+      "text2": "MAVIC 3",
+      "text3": "Your Everyday Commercial Drones",
+      "link1": "/",
+      "link2": "/dynamic/combinator/669e7df323114847a2f1c59f"
+    },
+    {
+      "id": 5,
+      "image":
+        "https://dji-official-fe.djicdn.com/cms/uploads/943efdcdbb68ccad90c65d7a8b9f38ed@origin.jpg",
+      "text1": "Mission Planning",
+      "text2": "DJI MAVIC 3M",
+      "text3": "See More, Work Smarter",
+      "link1": "/",
+      "link2": "/dynamic/combinator/669e7df323114847a2f1c59f"
+    },
+    {
+      "id": 6,
+      "image":
+        "https://dji-official-fe.djicdn.com/cms/uploads/5469e09498cb5bec60e052e587616a1c@origin.jpg",
+      "text1": "Agricultural Flagships",
+      "text2": "AGRAS T50",
+      "text3": "One For All",
+      "link1": "/",
+      "link2": "/dynamic/combinator/669eba595b39b4f6a21f1c0b"
+    }, 
+    {
+      "id": 7,
+      "image":
+        "https://dji-official-fe.djicdn.com/cms/uploads/6f10c62aeb91090cf4cc4577ccef7feb@1x.jpg",
+      "text1": "DJI Holiday Wonderlands Savings",
+      "text2": "UP TO 30% OFF",
+      "text3": "Discover exclusive gifts and discounts",
+      "link1": "/",
+      "link2": "/buy"
+    }, 
+    {
+      "id": 8,
+      "image":
+        "https://dji-official-fe.djicdn.com/cms/uploads/7bb8eb7615a19c1ed4824f6dc58cea13.jpg",
+      "text1": "Intigrate 8K Cinema Camera",
+      "text2": "DJI RONIN 4D-8D",
+      "text3": " Imagin Excilence Redefined",
+      "link1": "/",
+      "link2": "/dynamic/combinator/669ebe015b39b4f6a21f1c0d"
+    }
+  ],
+  "cards": [
+    {
+      "id": 9,
+      "title": "DJI NEO",
+      "subtitle": "A Palm-Sized Drone for Vlogs",
+      "description": "Rise and Shine",
+      "images": "https://www-cdn.djiits.com/cms/uploads/0a0dc1f4b323b05ac0fbf2b113380e72.webp",
+      "links": "https://www.dji.com/dji-neo"
+    },
+    {
+      "id": 10,
+      "title": "DJI MIC MINI",
+      "subtitle": "Mini Wireless Microphone",
+      "description": "Carry Less, Capture More",
+      "images": "https://www-cdn.djiits.com/cms/uploads/8f40ff105f36fba307b2b2207baf2449.webp",
+      "links": "https://www.dji.com/dji-mic-mini"
+    },
+    { 
+      "id": 11, 
+      "images": "https://www-cdn.djiits.com/cms/uploads/295f032ce36ae1b885ad3fd17178541d.webp",
+      "subtitle": "Revolutionary Action Camera",
+      "title": "OSMO ACTION 5 PRO",
+      "description": "Experience unparalleled performance with 4K/120fps.",
+      "links": "https://example.com/osmo-details",
+      "link2": "https://example.com/buy-osmo"
+    },
+    { 
+      "id": 12, 
+      "images": "https://www-cdn.djiits.com/cms/uploads/4cf64945038645b881669c49081c462f.webp",
+      "subtitle": "Innovative Drone Technology",
+      "title": "DJI MAVIC 3 PRO",
+      "description": "Explore aerial photography with advanced obstacle sensing.",
+      "links": "https://example.com/mavic-details",
+      "link2": "https://example.com/buy-mavic"
+    }
+  ],
+  "slides": [
+    { 
+      "id":13,
+      "url": "https://terra-1-g.djicdn.com/851d20f7b9f64838a34cd02351370894/%E7%8F%A0%E5%B3%B0%E6%96%B0%E9%97%BB%E4%B8%8A%E9%A6%96%E9%A1%B5-%E8%A7%86%E9%A2%91/%E7%8F%A0%E5%B3%B0%E8%A7%86%E9%A2%91-%E5%AE%98%E7%BD%910607_V5_TC.mp4",
+      "title": "DJI FlyCart 30",
+      "description": "Delivery On Everest",
+      "image":"https://www-cdn.djiits.com/cms/uploads/6e6e4a6c3bd44eb84f0d9f0b3f2708cd.jpg"
+    },
+    { 
+      "id":14,
+      "url": "https://terra-1-g.djicdn.com/851d20f7b9f64838a34cd02351370894/WA234shoton%E8%A7%86%E9%A2%91/F59_WA234_%E2%89%A410s_DJI%20home%20page%20Shot%20on%20Banner%20Video_CLEAN_2400x1440_1.mp4",
+      "title": "Shot on",
+      "description": "DJI Air 3S",
+      "image":"https://www-cdn.djiits.com/cms/uploads/c3f05094c0c82399587ab41f61fb034e.jpg"
+    },
+    { 
+      "id":15,
+      "url": "https://terra-1-g.djicdn.com/851d20f7b9f64838a34cd02351370894/AC204%20shot%20on/1_compressed.mp4",
+      "title": "Shot on",
+      "description": "Osmo Action 5 Pro",
+      "image":"https://www-cdn.djiits.com/cms/uploads/6e6e4a6c3bd44eb84f0d9f0b3f2708cd.jpg"
+    },
+    { 
+      "id":16,
+      "url": "https://terra-1-g.djicdn.com/851d20f7b9f64838a34cd02351370894/521%20shot%20on/F1_WA521_%E2%89%A410s_PalmTakeoff_CLEAN_2400x1440_N_N--_1.mp4",
+      "title": "Shot on",
+      "description": "DJI Neo",
+      "image":"https://www-cdn.djiits.com/cms/uploads/07f6a939cf2d38a1e29c2731788cb676.jpg"
+    } 
+  ],
+  "explore": [
+    {
+      "id": 17,
+      "title": "Video Production",
+      "description":"Professional Aerial and Ground Flimmaking Tools",
+      "image": "https://www-cdn.djiits.com/cms/uploads/89ebb24d2adc09cc7199829cff0ea712.webp",
+      "link": "https://example.com/video-production"
+    },
+    {
+      "id": 18,
+      "title": "EnterPrise",
+      "description": "Drone Solution for a New Generation of Work",
+      "image": "https://www-cdn.djiits.com/cms/uploads/51a3cca3a2424af908ac7f13562731fa.webp",
+      "link": "https://example.com/enterprise"
+    },
+    {
+      "id": 19,
+      "title": "Agriculture",
+      "description": "Efficient and Intelligent Agriculture Solution",
+      "image": "https://www-cdn.djiits.com/cms/uploads/d8df55b75a20f2387cf90a9990006f41.webp",
+      "link": "https://example.com/agriculture"
+    }
+  ],
+  "navItems": [
+    { "name": "DJI Mavic", "icon": "https://www-cdn.djiits.com/dps/ac010283e16f2b76a12067a4dc37aa13.png" },
+    { "name": "DJI Air", "icon": "https://www-cdn.djiits.com/dps/77738ff32f7a228fc58b4f401261e481.png" },
+    { "name": "DJI Mini", "icon": "https://www-cdn.djiits.com/dps/3b2958e69dfc377784a5a995c8c16c06.png" },
+    { "name": "DJI Flip", "icon": "https://www-cdn.djiits.com/dps/1dc39ee330099881a40b2472cb7cd0c1.png" },
+    { "name": "DJI Avata", "icon": "https://www-cdn.djiits.com/dps/62a29804a802d6a3e54c3e43b30399e9.png" },
+    { "name": "DJI Inspire", "icon": "https://www-cdn.djiits.com/dps/d13ba498aecd93533f69bcd1500458af.png" },
+    { "name": "DJI FPV", "icon": "https://www-cdn.djiits.com/dps/8c36a37c496c57d7b1950f63ce12f3a6.png" },
+    { "name": "RC", "icon": "https://www-cdn.djiits.com/dps/b429552c65fa90e612204031c752b2e0.png" },
+    { "name": "Take a quiz", "icon": "https://www-cdn.djiits.com/dps/dd80d4f36df9091f5ebcebd5fe864399.svg" },
+    { "name": "Consumer Drones ", "icon": "https://www-cdn.djiits.com/dps/ab660f7a8c5a5ab1b776f800c8cbc6ee.svg" },
+    { "name": "Accessories", "icon": "https://www-cdn.djiits.com/dps/42af7c7d7cc7b425c30b5ec52859318c.svg" },
+    { "name": "Shop Now", "icon": "https://www-cdn.djiits.com/dps/a46f9b5e0f5b88cb1e1e4a9ae10a42bb.svg" }
+  ],
+  "info": [
+    {
+      "id": 21,
+      "title": "DJI MAVIC 3 PRO",
+      "subtitle": "Multiple Focal Length Triple-Lens Flagship Camera Drone",
+      "descrption": "Inspiration in Focus",
+      "images": "https://www-cdn.djiits.com/dps/c2cf5f3b8c738ee773a4035a4da36214.jpg",
+      "links": "https://www.dji.com/dji-neo"
+    },
+    {
+      "id": 22,
+      "title": "DJI Mini 4 Pro",
+      "subtitle": "All-In-One Mini Drone",
+      "description": "Mini to the Max",
+      "images": "https://www-cdn.djiits.com/dps/a0d11066ee221205f88cba5ff2f07836.jpg",
+      "links": "https://www.dji.com/dji-mic-mini"
+    },
+    { 
+      "id": 23, 
+      "images": "https://www-cdn.djiits.com/dps/64082c7ffc0dbf66b8edcc38e2aaf692.jpg",
+      "subtitle": "FPV Drone",
+      "title": "DJI Avata 2",
+      "description": "All Thrills, No Frills",
+      "links": "https://example.com/osmo-details"
+    },
+    { 
+      "id": 24, 
+      "images": "https://www-cdn.djiits.com/dps/2389a2287c637fb8ca719370290e30d7.jpg",
+      "subtitle": "Integrated Aerial Cinema Camera",
+      "title": "DJI Inspire 3",
+      "description": "Master the Unseen",
+      "links": "https://example.com/mavic-details"
+
+    }
+  ],
+  "products": [
+    { 
+      "id": 25,
+      "name": "DJI Mavic 3 Pro",
+      "price": 2199,
+      "weight": "958 g",
+      "flightTime": "43 mins",
+      "category": "Flagship",
+      "image": "https://www-cdn.djiits.com/cms/uploads/ae5d8b9987be8d5ecdeb5d502a1e887c.png",
+      "camera": "4/3 CMOS Hasselblad Camera, 1/1.3-inch CMOS Medium Tele Camera, 1/2-inch CMOS Tele Camera",
+      "videoResolution": "5.1K/50fps",
+      "photoResolution": "48 MP",
+      "obstacleSensing": "Omnidirectional Obstacle Sensing (Forward, Backward, Upward, Downward, Left, Right)",
+      "transmission": "DJI O3+ HD Digital Video Transmission, Up to 15 km, 1080p/60fps Live Feed"
+    },
+    { 
+      "id": 26,
+      "name": "DJI Air 3S",
+      "price": 1099,
+      "weight": "724 g",
+      "flightTime": "45 mins",
+      "category": "Advanced",
+      "image": "https://www-cdn.djiits.com/cms/uploads/ef97699c719414c2138ae8cca2806760.png",
+      "camera": "1-inch CMOS Wide-Angle Camera, 1/1.3-inch CMOS Medium Tele Camera",
+      "videoResolution": "4K HDR, 4K/120fps",
+      "photoResolution": "50 MP",
+      "obstacleSensing": "Nightscape Omnidirectional Obstacle Sensing (Forward, Backward, Upward, Downward, Left, Right)",
+      "transmission": "DJI O4: Up to 20 km, 1080p/60fps 10-bit Live Feed"
+    },
+    { 
+      "id": 27,
+      "name": "DJI Mini 4 Pro",
+      "price": 759,
+      "weight": "< 249 g",
+      "flightTime": "34/45 mins",
+      "category": "Entry",
+      "image": "https://www-cdn.djiits.com/cms/uploads/892e39b4b76dc5a83b267ed12ce69b97.png",
+      "camera": "1/1.3-inch CMOS Wide-Angle Camera",
+      "videoResolution": "4K/60fps HDR, 4K/100fps",
+      "photoResolution": "48 MP",
+      "obstacleSensing": "Omnidirectional Obstacle Sensing (Forward, Backward, Upward, Downward, Left, Right)",
+      "transmission": "DJI O4: Up to 20 km, 1080p/60fps Live Feed"
+    },
+    { 
+      "id": 28,
+      "name": "DJI Flip",
+      "price": 439,
+      "weight": "< 249 g",
+      "flightTime": "31 mins",
+      "category": "New",
+      "image": "https://www-cdn.djiits.com/cms/uploads/32a4df4ce9e014fa44a38e24cc7fa97e.png",
+      "camera": "1/1.3-inch CMOS Wide-Angle Camera",
+      "videoResolution": "4K/60fps HDR, 4K/100fps",
+      "photoResolution": "48 MP",
+      "obstacleSensing": "Forward and Downward Obstacle Sensing (Forward, Downward)",
+      "transmission": "DJI O4: Up to 13 km, 1080p/60fps Live Feed"
+    }
+  ],
+  
+   "continents": {
+    "Asia": ["India", "Hong Kong, China", "Japan"],
+    "Europe": ["Germany", "France", "United Kingdom"],
+    "North America": ["United States", "Canada", "Mexico"]
+  },
+  "states": {
+    "India": ["Delhi", "Mumbai", "Bangalore"],
+    "Hong Kong, China": ["Central", "Tsim Sha Tsui"],
+    "Japan": ["Tokyo", "Osaka"],
+    "Germany": ["Berlin", "Munich"],
+    "France": ["Paris", "Lyon"],
+    "United Kingdom": ["London", "Manchester"],
+    "United States": ["California", "Texas", "New York"],
+    "Canada": ["Ontario", "British Columbia"],
+    "Mexico": ["Mexico City", "Guadalajara"]
+  },
+  "stores": [
+    {
+      "name": "DJI Hasselblad Store Nathan Road",
+      "continent": "Asia",
+      "country": "Hong Kong, China",
+      "state": "Central",
+      "address": "129 Nathan Road, G19-G20",
+      "hours": "11:00-21:00 (Mon-Sun & Public Holidays)",
+      "contact": "+852 26169128"
+    },
+    {
+      "name": "DJI Authorized Store Russell Street",
+      "continent": "Asia",
+      "country": "Hong Kong, China",
+      "state": "Tsim Sha Tsui",
+      "address": "59-61 Russell Street, TB5",
+      "hours": "10:30-22:00 (Mon-Sun & Public Holidays)",
+      "contact": "+852 23365928"
+    },
+    {
+      "name": "Best Buy San Francisco",
+      "continent": "North America",
+      "country": "United States",
+      "state": "California",
+      "address": "845 Market St, San Francisco",
+      "hours": "10:00-20:00 (Mon-Sun)",
+      "contact": "+1 415 123 4567"
+    },
+    {
+      "name": "MediaMarkt Berlin",
+      "continent": "Europe",
+      "country": "Germany",
+      "state": "Berlin",
+      "address": "Alexanderplatz 8, Berlin",
+      "hours": "09:00-21:00 (Mon-Sat)",
+      "contact": "+49 30 12345678"
+    },
+    {
+      "name": "Tech Store Osaka",
+      "continent": "Asia",
+      "country": "Japan",
+      "state": "Osaka",
+      "address": "1 Chome-7-3 Nanba, Osaka",
+      "hours": "11:00-21:00 (Mon-Sun)",
+      "contact": "+81 6 1234 5678"
+    }
+  ]
+}
